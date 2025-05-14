@@ -1,0 +1,14 @@
+# 忽略虛擬環境與暫存
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 忽略模型檔與資料集
+*.pt
+*.pth
+*.h5
+*.onnx
+*.zip
+*.tar.gz
